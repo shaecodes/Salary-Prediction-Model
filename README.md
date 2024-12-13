@@ -1,5 +1,3 @@
-# Salary-Prediction-Model
-
 # Employee Salary Prediction Model
 
 This project demonstrates how to predict employee salaries based on various factors such as age, gender, education level, job title, and years of experience. The model uses machine learning techniques such as Label Encoding and Feature Scaling to process the data, followed by linear regression for salary prediction.
